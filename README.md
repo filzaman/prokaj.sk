@@ -1,4 +1,4 @@
-# <img src="https://filip.prokaj.sk/images/favicon/android-chrome-512x512.png" alt="filip img" width="15"/> filip.prokaj.sk
+# <img src="https://filip.prokaj.sk/favicon/android-chrome-512x512.png" alt="filip img" width="15"/> filip.prokaj.sk
 
 Personal Webpage of Filip Prokaj.
 
