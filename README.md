@@ -26,11 +26,11 @@ Personal Webpage of Filip Prokaj.
 
 ## Contributing
 
-You dont have to contribute in any shape or form
+You __dont__ have to contribute in any shape or form.
 
 ## ToDo
 
-My [Projects](https://github.com/filzaman?tab=projects)
+View: [Projects](https://github.com/users/filzaman/projects/2)
 
 ## Author
  
