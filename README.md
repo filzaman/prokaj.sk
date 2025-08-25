@@ -8,11 +8,13 @@ Personal Webpage of Filip Prokaj.
 - [Used technologies](#Used-technologies)
 - [Development](#development)
   - [Setup](#setup)
-- [TODO](#todo)
+- [ToDo](#todo)
+- [Author](#Autho)
+- [Contact](#Contact)
 
 ## Used technologies
 
-- ![Bootstrap](https://icons.getbootstrap.com/assets/img/bootstrap.svg)**Bootstrap 5** CSS Framework
+- ![Bootstrap](https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000)**Bootstrap 5** CSS Framework
 - **PHP** Used for navigation
 - **HTML/CSS/JS** Default programing languages for web dev
 - **i18next** Language library
@@ -27,7 +29,7 @@ Personal Webpage of Filip Prokaj.
 
 Look in project
 
-## Authors & Maintainers
+## Author
  
 - Filip Prokaj (@filzaman)
 
