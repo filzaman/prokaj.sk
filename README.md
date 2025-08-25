@@ -13,7 +13,7 @@ Personal Webpage of Filip Prokaj.
 
 ## Used technologies
 
-- <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="Bootstrap" width="15"/>**Bootstrap 5** CSS Framework
+- <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="Bootstrap" width="15" padding="0"/>**Bootstrap 5** CSS Framework
 - **PHP** Used for navigation
 - **HTML/CSS/JS** Default programing languages for web dev
 - **i18next** Language library
